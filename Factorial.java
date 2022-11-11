@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Factorial {
     public static void main(String[] args) {
-        int digit,fact=1;
+        int fact=1;
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the Number:");
         int num=sc.nextInt();
